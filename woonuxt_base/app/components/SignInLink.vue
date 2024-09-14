@@ -4,7 +4,7 @@ const linkTitle = computed<string>(() => viewer.value?.username || 'Sign In');
 </script>
 
 <template>
-  <NuxtLink to="/my-account" :title="linkTitle" class="hidden sm:inline-flex aspect-square items-center">
+  <NuxtLink to="/my-account" :title="linkTitle" class="hidden sm:inline-flex aspect-square items-center hover:text-blue-500">
     <Transition name="pop-in" mode="out-in">
       <span v-if="avatar" class="relative avatar">
         <img

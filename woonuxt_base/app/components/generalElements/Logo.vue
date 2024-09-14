@@ -9,9 +9,9 @@ const faviconUrl = '/logo.svg';
 
 <template>
   <NuxtLink to="/">
-    <img v-if="logoUrl" :src="logoUrl" alt="Logo" class="object-contain h-10" />
+    <img v-if="logoUrl" :src="logoUrl" alt="Logo" class="object-contain h-12" />
     <div v-else class="flex items-center gap-2 text-lg font-bold">
-      <img :src="faviconUrl" alt="Logo" width="32" height="32" />
+      <img :src="faviconUrl" alt="Logo" width="40" height="40" />
       <span>{{ siteName }}</span>
     </div>
   </NuxtLink>

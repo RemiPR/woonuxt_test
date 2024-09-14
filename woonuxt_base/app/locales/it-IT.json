@@ -162,5 +162,62 @@
       "general": "Qualcosa è andato storto",
       "noOrder": "Non abbiamo trovato il tuo ordine. Riprova più tardi."
     }
+  },
+  "adCards": {
+    "first": {
+      "title": "Spedizione Gratuita",
+      "description": "Spedizione gratuita su tutti gli ordini superiori a $50."
+    },
+    "second": {
+      "title": "Tranquillità",
+      "description": "Garanzia di rimborso di 30 giorni."
+    },
+    "third": {
+      "title": "Pagamento 100% Sicuro",
+      "description": "Il tuo pagamento è sicuro con noi."
+    },
+    "fourth": {
+      "title": "Supporto 24/7",
+      "description": "Siamo qui per aiutarti."
+    }
+  },
+  "hero": {
+    "title": "Appena arrivato.",
+    "subTitle": "La Collezione di Capodanno",
+    "description": "La nostra ultima collezione è qui. Scopri le ultime tendenze e stili per il nuovo anno.",
+    "cta": "Acquista ora"
+  },
+
+  "copyright": {
+    "title": "© 2024 Lavoro di corso: Sistema informativo del negozio di abbigliamento online - creato dallo studente I19-3 Remigijus Prialgauskis."
+  },
+  "footerCustomerService": {
+    "title": "Servizio Clienti",
+    "contactUs": "Contattaci",
+    "shipping": "Spedizione & Resi",
+    "privacyPolicy": "Politica sulla Privacy",
+    "termsConditions": "Termini & Condizioni"
+  },
+  "footerProducts": {
+    "title": "Prodotti",
+    "newArrivals": "Nuovi Arrivi",
+    "onSale": "In Vendita",
+    "topRated": "Più Votati",
+    "giftCards": "Carte Regalo"
+  },
+  "footerInformation": {
+    "title": "Informazioni",
+    "aboutUs": "Chi Siamo",
+    "careers": "Carriere",
+    "press": "Stampa",
+    "faq": "FAQ"
+  },
+  "footerDescription": "Il nostro obiettivo è offrirti la migliore esperienza di acquisto nel nostro negozio. Siamo qui per aiutarti con qualsiasi domanda o problema tu possa avere. Contattaci in qualsiasi momento.",
+  "contact": {
+    "title": "Contattaci",
+    "name": "Nome",
+    "email": "Email",
+    "message": "Il tuo messaggio",
+    "sendMessage": "Invia messaggio"
   }
 }

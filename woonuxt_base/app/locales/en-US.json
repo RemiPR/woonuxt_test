@@ -162,5 +162,62 @@
       "general": "Something went wrong",
       "noOrder": "We could not find your order. Please try again later."
     }
+  },
+  "adCards": {
+    "first": {
+      "title": "Free Shipping",
+      "description": "Free shipping on all orders over $50."
+    },
+    "second": {
+      "title": "Peace of Mind",
+      "description": "30 day money back guarantee."
+    },
+    "third": {
+      "title": "100% Payment Secure",
+      "description": "Your payment are safe with us."
+    },
+    "fourth": {
+      "title": "24/7 Support",
+      "description": "We are here to help you."
+    }
+  },
+  "hero": {
+    "title": "Just landed.",
+    "subTitle": "The New Year Collection",
+    "description": "Our latest collection is here. Discover the latest trends and styles for the new year.",
+    "cta": "Shop now"
+  },
+
+  "copyright": {
+    "title": "© 2024 Coursework: Clothing Online Store Information System - created by I19-3 student Remigijus Prialgauskis."
+  },
+  "footerCustomerService": {
+    "title": "Customer Service",
+    "contactUs": "Contact Us",
+    "shipping": "Shipping & Returns",
+    "privacyPolicy": "Privacy Policy",
+    "termsConditions": "Terms & Conditions"
+  },
+  "footerProducts": {
+    "title": "Products",
+    "newArrivals": "New Arrivals",
+    "onSale": "On Sale",
+    "topRated": "Top Rated",
+    "giftCards": "Gift Cards"
+  },
+  "footerInformation": {
+    "title": "Information",
+    "aboutUs": "About Us",
+    "careers": "Careers",
+    "press": "Press",
+    "faq": "FAQ"
+  },
+  "footerDescription": "We prioritize our customers by providing high-quality, sustainable products and exceptional customer service. Every piece is crafted with care to ensure comfort, style, and satisfaction with every purchase.",
+  "contact": {
+    "title": "Contact Us",
+    "name": "Name",
+    "email": "Email",
+    "message": "Your Message",
+    "sendMessage": "Send Message"
   }
 }

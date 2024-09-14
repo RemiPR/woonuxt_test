@@ -78,9 +78,10 @@ export default defineNuxtConfig({
       { code: 'fr_FR', file: 'fr-FR.json', name: 'Français 🇫🇷' },
       { code: 'it_IT', file: 'it-IT.json', name: 'Italiano 🇮🇹' },
       { code: 'pt_BR', file: 'pt-BR.json', name: 'Português 🇧🇷' },
+      { code: 'lt_LT', file: 'lt-LT.json', name: 'Lietuvių 🇱🇹' },
     ],
     langDir: 'locales',
-    defaultLocale: 'en_US',
+    defaultLocale: 'lt_LT',
     strategy: 'no_prefix',
   },
 });

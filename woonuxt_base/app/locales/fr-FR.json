@@ -106,7 +106,7 @@
       "orderNote": "Note de commande | Notes de commande",
       "orderNotePlaceholder": "Notes sur votre commande, par exemple, des notes spéciales à propos de votre livraison.",
       "orderThanks": "Merci de votre commande. Nous vous enverrons un e-mail avec les détails de la commande.",
-      "orderHistory": "Historique des commandes",
+      "orderHistory": "Historique commandes",
       "placeOrder": "Passer la commande",
       "total": "Total",
       "subtotal": "Sous-total",
@@ -162,5 +162,62 @@
       "general": "Une erreur est survenue",
       "noOrder": "Impossible de trouver votre commande. Veuillez réessayer plus tard."
     }
+  },
+  "adCards": {
+    "first": {
+      "title": "Livraison gratuite",
+      "description": "Livraison gratuite pour toutes les commandes de plus de 50 €."
+    },
+    "second": {
+      "title": "Retour gratuit",
+      "description": "Retour gratuit sous 30 jours."
+    },
+    "third": {
+      "title": "Sécurité de paiement à 100%",
+      "description": "Paiement sécurisé à 100%."
+    },
+    "fourth": {
+      "title": "Service client",
+      "description": "Service client 24/7."
+    }
+  },
+  "hero": {
+    "title": "Vient d'arriver.",
+    "subTitle": "La Collection du Nouvel An",
+    "description": "Notre dernière collection est ici. Découvrez les dernières tendances et styles pour la nouvelle année.",
+    "cta": "Achetez maintenant"
+  },
+
+  "copyright": {
+    "title": "© 2024 Travail de cours : Système d'information de boutique en ligne de vêtements - créé par l'étudiant I19-3 Remigijus Prialgauskis."
+  },
+  "footerCustomerService": {
+    "title": "Service Client",
+    "contactUs": "Contactez-nous",
+    "shipping": "Expédition & Retours",
+    "privacyPolicy": "Politique de Confidentialité",
+    "termsConditions": "Termes & Conditions"
+  },
+  "footerProducts": {
+    "title": "Produits",
+    "newArrivals": "Nouveautés",
+    "onSale": "En Solde",
+    "topRated": "Les Mieux Notés",
+    "giftCards": "Cartes Cadeaux"
+  },
+  "footerInformation": {
+    "title": "Informations",
+    "aboutUs": "À Propos de Nous",
+    "careers": "Carrières",
+    "press": "Presse",
+    "faq": "FAQ"
+  },
+  "footerDescription": "Notre objectif est de vous offrir la meilleure expérience d'achat dans notre boutique. Nous sommes là pour vous aider avec toutes les questions ou problèmes que vous pourriez avoir. N'hésitez pas à nous contacter à tout moment.",
+  "contact": {
+    "title": "Contactez-nous",
+    "name": "Nom",
+    "email": "E-mail",
+    "message": "Votre message",
+    "sendMessage": "Envoyer le message"
   }
 }

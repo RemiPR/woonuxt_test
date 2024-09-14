@@ -162,5 +162,62 @@
       "general": "Ha ocurrido un error",
       "noOrder": "No hemos podido encontrar tu pedido. Por favor, inténtalo de nuevo más tarde."
     }
+  },
+  "adCards": {
+    "first": {
+      "title": "Envío gratuito",
+      "description": "en todos los pedidos superiores a $50"
+    },
+    "second": {
+      "title": "Garantía de devolución de dinero",
+      "description": "100% de devolución de dinero"
+    },
+    "third": {
+      "title": "Soporte 24/7",
+      "description": "Soporte en línea 24/7"
+    },
+    "fourth": {
+      "title": "Pago seguro",
+      "description": "Pago seguro 100%"
+    }
+  },
+  "hero": {
+    "title": "Recién llegado.",
+    "subTitle": "La Colección de Año Nuevo",
+    "description": "Nuestra última colección está aquí. Descubre las últimas tendencias y estilos para el nuevo año.",
+    "cta": "Compra ahora"
+  },
+
+  "copyright": {
+    "title": "© 2024 Trabajo de curso: Sistema de información de tienda en línea de ropa - creado por el estudiante de I19-3 Remigijus Prialgauskis."
+  },
+  "footerCustomerService": {
+    "title": "Servicio al Cliente",
+    "contactUs": "Contáctenos",
+    "shipping": "Envío & Devoluciones",
+    "privacyPolicy": "Política de Privacidad",
+    "termsConditions": "Términos y Condiciones"
+  },
+  "footerProducts": {
+    "title": "Productos",
+    "newArrivals": "Novedades",
+    "onSale": "En Oferta",
+    "topRated": "Más Valorados",
+    "giftCards": "Tarjetas de Regalo"
+  },
+  "footerInformation": {
+    "title": "Información",
+    "aboutUs": "Sobre Nosotros",
+    "careers": "Carreras",
+    "press": "Prensa",
+    "faq": "Preguntas Frecuentes"
+  },
+  "footerDescription": "Nuestro objetivo es brindarte la mejor experiencia de compra en nuestra tienda. Estamos aquí para ayudarte con cualquier pregunta o problema que puedas tener. Contáctanos en cualquier momento.",
+  "contact": {
+    "title": "Kontaktieren Sie uns",
+    "name": "Name",
+    "email": "E-Mail",
+    "message": "Ihre Nachricht",
+    "sendMessage": "Nachricht senden"
   }
 }

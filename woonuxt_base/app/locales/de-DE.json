@@ -162,5 +162,62 @@
       "general": "Etwas ist schief gelaufen",
       "noOrder": "Wir konnten Ihre Bestellung nicht finden. Bitte versuchen Sie es später noch einmal."
     }
+  },
+  "adCards": {
+    "first": {
+      "title": "Kostenloser Versand",
+      "description": "Kostenloser Versand für alle Bestellungen über 50 €."
+    },
+    "second": {
+      "title": "Kostenlose Rücksendung",
+      "description": "Kostenlose Rücksendung innerhalb von 30 Tagen."
+    },
+    "third": {
+      "title": "100% Zahlungssicherheit",
+      "description": "Sichere Zahlung mit 100% Sicherheit."
+    },
+    "fourth": {
+      "title": "Kundenservice",
+      "description": "24/7 Kundenservice."
+    }
+  },
+  "hero": {
+    "title": "Gerade gelandet.",
+    "subTitle": "Die Neujahrskollektion",
+    "description": "Unsere neueste Kollektion ist hier. Entdecken Sie die neuesten Trends und Stile für das neue Jahr.",
+    "cta": "Jetzt einkaufen"
+  },
+
+  "copyright": {
+    "title": "© 2024 Kursarbeit: Informationssystem für einen Online-Shop für Kleidung - erstellt von I19-3 Student Remigijus Prialgauskis."
+  },
+  "footerCustomerService": {
+    "title": "Kundendienst",
+    "contactUs": "Kontaktieren Sie uns",
+    "shipping": "Versand & Rückgabe",
+    "privacyPolicy": "Datenschutzrichtlinie",
+    "termsConditions": "Geschäftsbedingungen"
+  },
+  "footerProducts": {
+    "title": "Produkte",
+    "newArrivals": "Neuheiten",
+    "onSale": "Im Angebot",
+    "topRated": "Bestbewertet",
+    "giftCards": "Geschenkkarten"
+  },
+  "footerInformation": {
+    "title": "Informationen",
+    "aboutUs": "Über uns",
+    "careers": "Karriere",
+    "press": "Presse",
+    "faq": "FAQ"
+  },
+  "footerDescription": "Unser Ziel ist es, Ihnen das beste Einkaufserlebnis in unserem Shop zu bieten. Wir sind hier, um Ihnen bei allen Fragen oder Problemen zu helfen, die Sie haben könnten. Kontaktieren Sie uns jederzeit.",
+  "contact": {
+    "title": "Kontaktieren Sie uns",
+    "name": "Name",
+    "email": "E-Mail",
+    "message": "Ihre Nachricht",
+    "sendMessage": "Nachricht senden"
   }
 }

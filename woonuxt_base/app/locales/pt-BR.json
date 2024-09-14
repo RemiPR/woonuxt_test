@@ -162,5 +162,62 @@
       "general": "Algo deu errado",
       "noOrder": "Não conseguimos encontrar seu pedido. Por favor, tente novamente mais tarde."
     }
+  },
+  "adCards": {
+    "first": {
+      "title": "Frete Grátis",
+      "description": "Frete grátis em todos os pedidos acima de $50."
+    },
+    "second": {
+      "title": "Tranquilidade",
+      "description": "Garantia de devolução do dinheiro em 30 dias."
+    },
+    "third": {
+      "title": "Pagamento 100% Seguro",
+      "description": "Seu pagamento está seguro conosco."
+    },
+    "fourth": {
+      "title": "Suporte 24/7",
+      "description": "Estamos aqui para ajudar você."
+    }
+  },
+  "hero": {
+    "title": "Acabou de chegar.",
+    "subTitle": "A Coleção de Ano Novo",
+    "description": "Nossa última coleção está aqui. Descubra as últimas tendências e estilos para o novo ano.",
+    "cta": "Compre agora"
+  },
+
+  "copyright": {
+    "title": "© 2024 Trabalho de curso: Sistema de Informação de Loja Online de Roupas - criado pelo estudante I19-3 Remigijus Prialgauskis."
+  },
+  "footerCustomerService": {
+    "title": "Atendimento ao Cliente",
+    "contactUs": "Fale Conosco",
+    "shipping": "Envio & Devoluções",
+    "privacyPolicy": "Política de Privacidade",
+    "termsConditions": "Termos & Condições"
+  },
+  "footerProducts": {
+    "title": "Produtos",
+    "newArrivals": "Novidades",
+    "onSale": "Em Promoção",
+    "topRated": "Mais Bem Avaliados",
+    "giftCards": "Cartões Presente"
+  },
+  "footerInformation": {
+    "title": "Informações",
+    "aboutUs": "Sobre Nós",
+    "careers": "Carreiras",
+    "press": "Imprensa",
+    "faq": "FAQ"
+  },
+  "footerDescription": "Nosso objetivo é proporcionar a você a melhor experiência de compra em nossa loja. Estamos aqui para ajudar com qualquer dúvida ou problema que você possa ter. Entre em contato conosco a qualquer momento.",
+  "contact": {
+    "title": "Fale Conosco",
+    "name": "Nome",
+    "email": "E-mail",
+    "message": "Sua mensagem",
+    "sendMessage": "Enviar mensagem"
   }
 }
